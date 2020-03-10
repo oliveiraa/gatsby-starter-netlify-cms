@@ -47,6 +47,8 @@ intro:
         sale. The full price you pay goes to the artist.
     - image: /img/chemex.jpg
       text: This is a new blurb
+    - image: /img/blog-index.jpg
+      text: Hey Laureano!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
